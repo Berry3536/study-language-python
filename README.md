@@ -1,4 +1,4 @@
-# study-language-python
+# study-python
 Repository for studying Python language <br><br>
 
 ## study contents
@@ -12,4 +12,4 @@ Repository for studying Python language <br><br>
 8. Input/Output
 9. Class
 10. Exception
-11. Moudle & Package
+11. Module & Package
